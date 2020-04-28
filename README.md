@@ -1,6 +1,6 @@
 # Toad_Of_Oracle_Study
 
-Toad사용법
+<h2>Toad사용법</h2>
 
 1. 로그인(Connection)
    - DB Server 에 로그인할 수 있음
