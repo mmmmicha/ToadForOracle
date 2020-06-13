@@ -1,5 +1,5 @@
-# ToadforOracle_Study
-wiki : https://ko.wikipedia.org/wiki/TOAD
+# ToadForOracleStudy
+- [Toad(wiki)](https://ko.wikipedia.org/wiki/TOAD)
 
 <h2>Toad사용법</h2>
 
