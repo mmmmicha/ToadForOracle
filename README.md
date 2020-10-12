@@ -16,7 +16,13 @@
 
 4. SQL Editor 사용법
    - 직접 SQL 을 코딩할 수 있음.
-   
+
+## DBLink
+
+- 현재 접속해있는 스키마에서 다른 스키마로의 연결을 제공해주는 link
+- 알아두기!
+  - ``BLOB``, ``CLOB`` 는 DBLink 로 다룰 수 없다.
+
 ## 내장 함수
 
 - ROW_NUMBER() OVER()
